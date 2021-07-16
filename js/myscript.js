@@ -3,7 +3,7 @@ let app=angular.module('Myapp',[]);
 app.controller('Myctrl',($scope,$http)=>{
 //this is controller
 
-$scope.title="Stay Home Stay Safe";
+$scope.title="Stay Home Stay Safe And Happy";
 
 //calling api
 console.log('api loaded');
